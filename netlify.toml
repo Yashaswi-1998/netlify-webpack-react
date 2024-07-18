@@ -4,5 +4,5 @@
 [[plugins]]
   package = "netlify-plugin-imagekit"
 
-  [plugins.inputs] 
+  [plugins.inputs]
   urlEndpoint = "https://ik.imagekit.io/a1yisxurxo/proxy/"
